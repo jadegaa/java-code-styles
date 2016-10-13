@@ -167,12 +167,9 @@
         <option name="WHILE_ON_NEW_LINE" value="true"/>
         <option name="CATCH_ON_NEW_LINE" value="true"/>
         <option name="FINALLY_ON_NEW_LINE" value="true"/>
-        <option name="SPECIAL_ELSE_IF_TREATMENT" value="false"/>
         <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false"/>
         <indentOptions>
-            <option name="INDENT_SIZE" value="2"/>
             <option name="CONTINUATION_INDENT_SIZE" value="4"/>
-            <option name="TAB_SIZE" value="2"/>
         </indentOptions>
         <arrangement>
             <groups>
